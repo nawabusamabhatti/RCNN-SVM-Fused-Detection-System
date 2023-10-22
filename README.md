@@ -42,3 +42,7 @@ OpenCV
 PyTorch
 Scikit-learn
 Other related libraries (requirements documented in the project)
+
+Ping For Pretrained Model & Dataset
+muammadusamabhatti009@gmail.com
++923099204264
